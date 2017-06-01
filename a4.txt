@@ -1,3 +1,5 @@
 understanding pull de
 added from issue1 branch
 added 2nd time from issue1 branch
+edited line from master
+edited another line from mastr
